@@ -119,7 +119,7 @@
   el: 'Συνεισφέροντες'
   zh-hans: '贡献者们：'
   fr: 'Contributeurs&#8239;:'
-  es: 'Colaboradores/as:'
+  es: 'Con la colaboración de:'
   ko: '기여한 사람들'
   pt-BR: 'Pessoas colaboradoras:'
   fa: 'مشارکت کنندگان:'
@@ -245,7 +245,7 @@
   el: 'Fork και Επεξεργασία στο Github'
   zh-hans: '派生到本地，在Github上编辑'
   fr: 'Cloner et modifier sur GitHub'
-  es: 'Fork y Editar en GitHub'
+  es: 'Bifurcar y Editar en GitHub'
   ko: 'GitHub에서 Fork 및 수정하기'
   pt-BR: 'Criar um fork e editar no GitHub'
   fa: 'انشعاب گرفتن و ویرایش در گیت‌هاب'
@@ -335,7 +335,7 @@
   el: 'Αρχική'
   zh-hans: '首页'
   fr: 'Page d’accueil'
-  es: 'Portada'
+  es: 'Inicio'
   ko: '메인'
   pt-BR: 'Página inicial'
   fa: 'صفحه اصلی'
@@ -587,7 +587,7 @@
   el: 'Επιλέξτε Γλώσσα, Μεταφράσεις'
   zh-hans: '选择语言，翻译'
   fr: 'Choisir la langue, les traductions'
-  es: 'Selecciona idioma, traducciones'
+  es: 'Elegir idioma, traducciones'
   ko: '언어, 번역을 선택하세요.'
   pt-BR: 'Selecione idioma, traduções'
   fa: 'انتخاب زبان و ترجمه‌ها'
@@ -641,7 +641,7 @@
   el: 'Παράλειψη Συνδέσμου και Επιλογής Γλώσσας'
   zh-hans: '跳过链接和语言选择器'
   fr: 'Liens d’évitement et sélecteur de langue'
-  es: 'Saltar Enlace y Selector de Idioma'
+  es: 'Saltar enlace y Selector de idioma'
   ko: '링크 건너뛰기와 언어 선택'
   pt-BR: 'Pular link e seletor de idioma'
   fa: 'رد کردن پیوند و انتخاب زبان'
@@ -659,7 +659,7 @@
   el: 'Μετάβαση στο Κύριο Περιεχόμενο'
   zh-hans: '跳到内容'
   fr: 'Aller directement au contenu'
-  es: 'Saltar al Contenido'
+  es: 'Saltar al contenido'
   ko: '콘텐츠로 넘어가기'
   pt-BR: 'Pular para o conteúdo'
   fa: 'پرش به محتوا'
@@ -677,7 +677,7 @@
   el: 'Στρατηγικές, πρότυπα και υποστηρικτικό υλικό για να γίνει ο Παγκόσμιος Ιστός προσβάσιμος σε άτομα με ειδικές ανάγκες.'
   zh-hans: '使残疾人能够访问Web的策略、标准和支持资源。'
   fr: 'Stratégies, standards et ressources pour rendre le Web accessible aux personnes en situation de handicap.'
-  es: 'Estrategias, estándares y materiales de apoyo para hacer la Web accesible para gente con discapacidades.'
+  es: 'Estrategias, estándares y materiales de apoyo para hacer la Web accesible para personas con discapacidades.'
   ko: '장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원 지원'
   pt-BR: 'Estratégias, padrões e recursos de suporte para tornar a web acessível a pessoas com deficiência.'
   fa: 'استراتژی‌ها، استانداردها و منابع حمایتی برای دسترسی‌پذیری وب به افراد کم‌توان.'
@@ -695,7 +695,7 @@
   el: 'Στρατηγικές, πρότυπα και υλικό για ένα Παγκόσμιο Ιστό προσβάσιμο σε άτομα με ειδικές ανάγκες'
   zh-hans: '使残疾人能够访问Web的策略、标准和资源。'
   fr: 'Stratégies, standards, ressources pour un Web accessible aux personnes en situation de handicap.'
-  es: 'Estrategias, estándares y materiales para hacer la Web accesible para gente con discapacidades.'
+  es: 'Estrategias, estándares y materiales para hacer la Web accesible para personas con discapacidades.'
   ko: '장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원'
   pt-BR: 'Estratégias, padrões e recursos para tornar a web acessível a pessoas com deficiência.'
   fa: 'استراتژی‌ها، استانداردها و منابع برای دسترسی‌پذیری وب به افراد کم‌توان.'
@@ -713,7 +713,7 @@
   el: 'Πραγματοποίηση Αναζήτησης'
   zh-hans: '提交搜索'
   fr: 'Lancer la recherche'
-  es: 'Enviar Búsqueda'
+  es: 'Enviar búsqueda'
   ko: '찾기'
   pt-BR: 'Realizar pesquisa'
   fa: 'ارسال جستجو'
@@ -731,7 +731,7 @@
   el: 'Ο ιστότοπος αυτός είναι μια αδημοσίευτη προεπισκόπηση που μπορεί να περιλαμβάνει περιεχόμενο, που δεν έχει ακόμη εγκριθεί. Ο δημοσιευμένος ιστότοπος βρίσκεται στο <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
   zh-hans: '这是一个未发布的草案预览，可能包含尚未批准的内容。已发布的网站在<a href="https://w3.org/WAI/">w3.org/WAI/</a>。'
   fr: 'Ceci est une ébauche non officielle pouvant inclure du contenu en cours de validation. Le site publié se trouve à l’adresse <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
-  es: 'Esta es una previsualización en borrador que no está publicada que puede incluir contenido que aún no se han aprobado. El sitio web publicado está en <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
+  es: 'Esta es una previsualización en borrador no publicada que puede incluir contenido que aún no se ha aprobado. El sitio web publicado está en <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
   ko: '공식적으로 배포되지 않은 초안으로 아직 승인되지 않은 콘텐츠를 담고 있을 수 있습니다. 공식 사이트는 <a href="https://w3.org/WAI/">w3.org/WAI/</a> 입니다.'
   pt-BR: 'Esta é uma pré-visualização de um rascunho não publicado que pode incluir conteúdo que ainda não foi aprovado. O site publicado está em <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
   fa: 'این یک پیش‌نمایش پیش‌نویس منتشر نشده است که ممکن است شامل محتوایی باشد که هنوز تایید نشده است. وب‌سایت منتشر شده به آدرس <a href="https://w3.org/WAI/">w3.org/WAI/</a> می‌باشد.'
@@ -900,6 +900,7 @@
   fa: 'بعدی'
   id: 'Berikutnya'
   pl: 'Następne'
+  es: 'Siguiente'
 
 - en: 'Previous'  # used for navigation to the previous page in a multi-page resource; for example, just above w3.org/WAI/people-use-web/user-stories/#helpimprove
   uk: 'Попередня'
@@ -917,6 +918,7 @@
   fa: 'قبلی'
   id: 'Sebelumnya'
   pl: 'Poprzednie'
+  es: 'Anterior'
 
 # ADDED 2019-07-09
 
@@ -935,6 +937,7 @@
   ru: 'в'
   zh-hans: '在' # In Chinese, the usage of "in" is different from English, and we usually use a phrase combination to express it. Such as [Stories of Web Users] 在 [How People with Disabilities Use the Web] 之中。Of course, it is understandable to just translate as "在", but it is not accurate.
   pl: 'w'
+  es: 'en'
 
 # ADDED 2019-08-19
 
@@ -1066,6 +1069,7 @@
   pl: 'Redakcja'
   pt-BR: 'Pessoas editoras:'
   ko: '편집자:'
+  es: 'Editores:'
 
 - en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
   zh-hans: '更新资源的编辑者：'
@@ -1077,6 +1081,7 @@
   pl: 'Aktualizacje projektu:'
   pt-BR: 'Pessoa editora da atualização:'
   ko: '업데이트 편집자'
+  es: 'Edición de actualizaciones:'
 
 - en: 'Status:' # followed by the last updated date or
   zh-hans: '状态：'
@@ -1087,6 +1092,7 @@
   pl: 'Status'
   pt-BR: 'Status:'
   ko: '상태:'
+  es: 'Estado:'
 
 - en: 'Updated' #  precedes a date
   zh-hans: '更新日期'
@@ -1097,6 +1103,7 @@
   pl: 'Uaktualniono'
   pt-BR: 'Atualizada em'
   ko: '업데이트됨'
+  es: 'Actualizado el'
 
 - en: 'first published' #  precedes a date
   zh-hans: '首次发布日期'
@@ -1107,6 +1114,7 @@
   pl: 'pierwsza publikacja'
   pt-BR: 'primeira publicação'
   ko: '처음 발행됨'
+  es: 'primera publicación'
 
 # Added 2023-10-18
 
@@ -1118,6 +1126,7 @@
   pl: 'Podziękowania'
   pt-BR: 'Agradecimentos'
   de: 'Danksagungen'
+  es: 'Agradecimientos'
 
 # Added 2024-01-02
 
@@ -1128,6 +1137,7 @@
   pl: 'Napisy rozszerzone'
   pt-BR: 'Legendas de vídeo'
   id: 'Subtitel video'
+  es: 'Subtítulos de vídeo'
 
 - en: 'Standards/Guidelines' # Precedes list of translations of standards and guidelines in this language, in https://www.w3.org/WAI/translations/
   fr: 'Standards/Règles'
@@ -1150,6 +1160,7 @@
   ko: "이미지에 대한 긴 설명"
   pl: "Długi opis obrazu"
   pt-BR: "Descrição longa da imagem"
+  es: 'Descripción larga de la imagen'
 
 # Added 2024-10-31
 
@@ -1157,11 +1168,13 @@
   zh-hans: '本页面已审核，内容截至'
   fr: 'Cette page a été vérifiée et est à jour en date du.'
   pt-BR: 'Esta página foi revisada e está atualizada desde'
+  es: 'Se ha revisado esta página y está actualizada a fecha de:'
 
 - en: 'Notice:' # Used in “About this translation” section, to notify that the translation needs update.
   zh-hans: '通知：'
   fr: 'Avertissement :'
   pt-BR: 'Aviso:'
+  es: 'Aviso:'
 
 - en: 'We welcome a <a href="$1">translation update</a>.' # Used in “About this translation” section, when a translation needs update.
   zh-hans: '我们欢迎进行<a href="$1">翻译更新</a>。'
